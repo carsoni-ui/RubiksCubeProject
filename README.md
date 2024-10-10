@@ -15,9 +15,9 @@ This is a simple, command-line Rubik's Cube simulator in Java. You can input a s
 You can either enter your own moves or let the program scramble the cube for you. After making moves, the cube will display its current state. When you're ready, you can ask the program for an optimized solution to bring it back to the solved position.
 
 The moves are pretty straightforward:
-- **u**: Rotate the top face clockwise
-- **d**: Rotate the bottom face clockwise
-- r**: Rotate the right face clockwise
+- u: Rotate the top face clockwise
+- d: Rotate the bottom face clockwise
+- r: Rotate the right face clockwise
 - l: Rotate the left face clockwise
 - f: Rotate the front face clockwise
 - b: Rotate the back face clockwise
